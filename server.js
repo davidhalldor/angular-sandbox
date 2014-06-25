@@ -3,5 +3,5 @@ var connect = require('connect'),
 
 var app = connect();
 
-app.use(serveStatic("../angular"));
+app.use(serveStatic("../angular-sandbox"));
 app.listen(5000);
