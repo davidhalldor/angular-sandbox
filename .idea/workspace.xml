@@ -1,119 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad79fca4-3847-4d20-a689-481c8803a8d3" name="Default" comment="Breytti serveStatic root slóðinni - þarf að vera nákvæmlega sama nafn og á root folder.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.me" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\lib\connect.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\lib\proto.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\debug.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\node_modules\ms\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\node_modules\ms\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\node_modules\ms\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\node_modules\ms\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\debug\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\node_modules\escape-html\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\finalhandler\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\parseurl\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\parseurl\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\parseurl\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\parseurl\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\utils-merge\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\utils-merge\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\utils-merge\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\utils-merge\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\node_modules\utils-merge\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\connect\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\escape-html\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\parseurl\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\parseurl\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\parseurl\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\parseurl\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\lib\send.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\lib\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\browser.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\debug.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\node.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\node_modules\ms\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\node_modules\ms\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\node_modules\ms\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\node_modules\ms\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\debug\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\node_modules\ee-first\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\finished\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\fresh\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\mime.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\types\mime.types" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\mime\types\node.types" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\History.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\node_modules\range-parser\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\node_modules\send\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\node_modules\serve-static\package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.html" afterPath="$PROJECT_DIR$/todo.html" />
+    <list default="true" id="ad79fca4-3847-4d20-a689-481c8803a8d3" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\README.me" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular.iws" />
@@ -147,8 +36,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.me" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.me">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
               <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
@@ -315,18 +204,23 @@
       <created>1403700141422</created>
       <updated>1403700141422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setti inn README.md, setti nodejs í Webstorm stöff í ignore file.">
+      <created>1403779335258</created>
+      <updated>1403779335258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -336,7 +230,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -358,7 +251,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Breytti serveStatic root slóðinni - þarf að vera nákvæmlega sama nafn og á root folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Breytti serveStatic root slóðinni - þarf að vera nákvæmlega sama nafn og á root folder." />
+    <MESSAGE value="Setti inn README.md, setti nodejs í Webstorm stöff í ignore file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setti inn README.md, setti nodejs í Webstorm stöff í ignore file." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -372,7 +266,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.me">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
           <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
@@ -508,7 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.me">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
           <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
