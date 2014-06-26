@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad79fca4-3847-4d20-a689-481c8803a8d3" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\README.me" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular.iws" />
@@ -208,7 +207,11 @@
       <created>1403779335258</created>
       <updated>1403779335258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Setti inn README.md, setti nodejs í Webstorm stöff í ignore file.">
+      <created>1403779430074</created>
+      <updated>1403779430074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
