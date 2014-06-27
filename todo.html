@@ -20,14 +20,26 @@
             };
 
             /* angularjs app defined */
-            var todoApp = angular.module("todoApp", []);
+            var todoApp = angular.module('todoApp', []);
 
-            todoApp.filter("checkedItems", function() {
-
-            })
+            /** angularjs filter called checkedItems, filter factory, which returns a function that is used to filter
+             * a set of data objects. The filter method requires passing in a function that returns a function that
+             * returns the filtered data. The function that does the actual filtering has two arguments.
+            */
+            todoApp.filter('checkedItems', function () {
+                return function (items, showComplete ) {
+                    var resultArr = [];
+                    angular.forEach(items, function (item) {
+                        if (item.done == false || showComplete == true) {
+                            resultArr.push(item);
+                        }
+                    });
+                    return resultArr;
+                };
+            });
 
             /* ToDoCtrl controller */
-            todoApp.controller("ToDoCtrl", function ($scope) {
+            todoApp.controller('ToDoCtrl', function ($scope) {
                 // sets todo scope variable to the data model
                 $scope.todo = model;
                 $scope.incompleteCount = function () {
@@ -41,7 +53,7 @@
                 }
 
                 $scope.warningLevel = function () {
-                    return $scope.incompleteCount() < 3 ? "label-success" : "label-warning";
+                    return $scope.incompleteCount() < 3 ? 'label-success' : 'label-warning';
                 }
                 /**
                  * function that adds todo item to the model

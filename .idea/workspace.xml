@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad79fca4-3847-4d20-a689-481c8803a8d3" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\davidhalldor\WebstormProjects\angular-sandbox\bootstrap.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.html" afterPath="$PROJECT_DIR$/todo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -43,8 +39,8 @@
       <file leaf-file-name="todo.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14143646" vertical-offset="0" max-vertical-offset="1552">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.3889503" vertical-offset="0" max-vertical-offset="1744">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -259,7 +255,11 @@
       <created>1403885239162</created>
       <updated>1403885239162</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Removed files that were not managed by bower">
+      <created>1403886358827</created>
+      <updated>1403886358827</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +307,8 @@
     <MESSAGE value="Added info to README.md" />
     <MESSAGE value="Changed todo.html" />
     <MESSAGE value="Added bower support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bower support" />
+    <MESSAGE value="Removed files that were not managed by bower" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed files that were not managed by bower" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -613,8 +614,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14143646" vertical-offset="0" max-vertical-offset="1552">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.3889503" vertical-offset="0" max-vertical-offset="1744">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
           <folding />
         </state>
       </provider>
